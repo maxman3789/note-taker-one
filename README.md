@@ -1,4 +1,4 @@
-# note-taker-one
+# Note Taker
 
 This Web App's function is to Save Notes that are typed. It opens with a Splash page before entering the page for writing Notes. Uses Node.js and Express.js as a Server/Back-End. The Web App is currently live through Heroku: https://arcane-earth-54439.herokuapp.com
 
